@@ -14,7 +14,7 @@ button {
   font: inherit;
   padding: 0.75em 3em;
   background: hsl(236, 30%, 28%);
-  border: 0.1em solid hsl(250, 50%, 75%);
+  border: 0.1em solid hsl(250, 38%, 68%);
   border-radius: 100vw;
   cursor: pointer;
   transition: background-color 250ms;
